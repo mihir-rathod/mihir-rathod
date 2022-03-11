@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mihir Rathod
-- 🌱 I’m currently learning C, Java and a bit of GUi
+- 🌱 I’m currently learning C, Java, JavaScript and Python along with some web development.
 - 📫 my email- mihirr.rathodd@gmail.com
 
 <!---
