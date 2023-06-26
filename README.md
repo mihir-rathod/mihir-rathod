@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mihir Rathod
-- 🌱 I’m currently learning C, Java, JavaScript and Python languages along with some web development.
+- 🌱 AI and Machine Learning Aspirant
 - 📫 my email- mihirr.rathodd@gmail.com
 
 <!---
