@@ -7,7 +7,6 @@
 
 ### 🛠 Tech Stack
 
-
 - **Languages:** Python, Java, C++, SQL, JavaScript, TypeScript, Dart  
 - **Frameworks & Tools:** React, Spring Boot, Next.js, Postman, Git, Linux, ASP.NET
 - **ML & Data:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
@@ -15,7 +14,7 @@
 
 ---
 
-### 📫 How to contact me?
+### 📫 Contact
 
 📧 mihirr.rathodd@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/mihir-j-rathod)
